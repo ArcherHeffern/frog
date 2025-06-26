@@ -1,0 +1,5 @@
+.venv
+encrypt.txt
+.vscode
+OUT.md
+__pycache__
