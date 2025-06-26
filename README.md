@@ -1,8 +1,6 @@
 # About
 Think twice before reading. Then think a few more times.  
 
-If you do. I can only hope you understand. 
-
 # Usage
 ## Set Up Virtual Environment
 ```bash
