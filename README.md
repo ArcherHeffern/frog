@@ -1,5 +1,5 @@
 # About
-Think twice before reading. Then think a few more times.  
+I saw :) 
 
 # Usage
 ## Set Up Virtual Environment
